@@ -29,7 +29,7 @@ class MoveRobotActionServer(Node):
             feedback_msg.current_distance = current_distance
             goal_handle.publish_feedback(feedback_msg)
             self.get_logger().info(f'Feedback: {current_distance:.2f}')
-            time.sleep(1)  # ✅ 修正
+            time.sleep(0.1)  # ✅ 修正
         goal_handle.succeed()
         result = MoveRobot.Result()
         result.success = True
