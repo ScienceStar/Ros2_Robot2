@@ -378,10 +378,6 @@
 			"id" : "robot_action_demo__py::@3c2ea9e9928b26c14c88"
 		},
 		{
-			"backtrace" : 7,
-			"id" : "robot_action_demo__rosidl_generator_c::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 20,
 			"id" : "robot_action_demo__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df"
 		},
@@ -392,6 +388,10 @@
 		{
 			"backtrace" : 7,
 			"id" : "robot_action_demo__rosidl_generator_py::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "robot_action_demo__rosidl_generator_c::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "robot_action_demo__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
