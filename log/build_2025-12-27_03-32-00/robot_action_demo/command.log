@@ -1,0 +1,6 @@
+Invoking command in '/root/ros2_ws/build/robot_action_demo': /usr/bin/cmake /root/ros2_ws/src/robot_action_demo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/root/ros2_ws/install/robot_action_demo
+Invoked command in '/root/ros2_ws/build/robot_action_demo' returned '0': /usr/bin/cmake /root/ros2_ws/src/robot_action_demo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/root/ros2_ws/install/robot_action_demo
+Invoking command in '/root/ros2_ws/build/robot_action_demo': /usr/bin/cmake --build /root/ros2_ws/build/robot_action_demo -- -j12 -l12
+Invoked command in '/root/ros2_ws/build/robot_action_demo' returned '0': /usr/bin/cmake --build /root/ros2_ws/build/robot_action_demo -- -j12 -l12
+Invoking command in '/root/ros2_ws/build/robot_action_demo': /usr/bin/cmake --install /root/ros2_ws/build/robot_action_demo
+Invoked command in '/root/ros2_ws/build/robot_action_demo' returned '0': /usr/bin/cmake --install /root/ros2_ws/build/robot_action_demo

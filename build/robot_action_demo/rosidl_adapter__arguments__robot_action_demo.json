@@ -1,0 +1,6 @@
+{
+  "package_name": "robot_action_demo",
+  "non_idl_tuples": [
+    "/root/ros2_ws/src/robot_action_demo:action/MoveRobot.action"
+  ]
+}
