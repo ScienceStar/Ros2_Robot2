@@ -80,6 +80,7 @@ _colcon_package_sh_source_script() {
 # source sh hooks
 _colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/robot_action_demo/hook/cmake_prefix_path.sh"
 _colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/robot_action_demo/hook/ld_library_path_lib.sh"
+_colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/robot_action_demo/hook/pythonpath.sh"
 _colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/robot_action_demo/hook/ros_package_path.sh"
 _colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/robot_action_demo/hook/catkin_pythonpath.sh"
 _colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/robot_action_demo/hook/pkg_config_path.sh"

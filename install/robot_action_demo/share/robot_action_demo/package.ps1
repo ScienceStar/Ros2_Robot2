@@ -112,6 +112,7 @@ $env:COLCON_CURRENT_PREFIX=(Get-Item $PSCommandPath).Directory.Parent.Parent.Ful
 
 colcon_package_source_powershell_script "$env:COLCON_CURRENT_PREFIX\share/robot_action_demo/hook/cmake_prefix_path.ps1"
 colcon_package_source_powershell_script "$env:COLCON_CURRENT_PREFIX\share/robot_action_demo/hook/ld_library_path_lib.ps1"
+colcon_package_source_powershell_script "$env:COLCON_CURRENT_PREFIX\share/robot_action_demo/hook/pythonpath.ps1"
 colcon_package_source_powershell_script "$env:COLCON_CURRENT_PREFIX\share/robot_action_demo/hook/ros_package_path.ps1"
 colcon_package_source_powershell_script "$env:COLCON_CURRENT_PREFIX\share/robot_action_demo/hook/catkin_pythonpath.ps1"
 colcon_package_source_powershell_script "$env:COLCON_CURRENT_PREFIX\share/robot_action_demo/hook/pkg_config_path.ps1"
